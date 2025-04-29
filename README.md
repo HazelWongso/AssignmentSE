@@ -1,4 +1,4 @@
-# Simple C Project - GitHub Practice
+# Software Engineering Assignment
 
 ## Description
 This is a short assignment for the Software Engineering course, focusing on basic usage of GitHub. The project uses C code to demonstrate version control practices.
